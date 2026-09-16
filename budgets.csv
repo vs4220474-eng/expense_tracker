@@ -1,0 +1,8 @@
+type,category,month,amount
+overall,Overall,2026-09,30000
+category,Food,2026-09,6000
+category,Transport,2026-09,3000
+category,Shopping,2026-09,5000
+category,Entertainment,2026-09,3000
+category,Bills,2026-09,5000
+category,Education,2026-09,3000
